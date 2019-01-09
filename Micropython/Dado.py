@@ -67,7 +67,7 @@ while True:
             display.show(tres)
         if valor == 4:
             display.show(cuatro)
-        if valor == 6:
+        if valor == 5:
             display.show(cinco)
         if valor == 6:
             display.show(seis)
